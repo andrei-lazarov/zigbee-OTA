@@ -1,0 +1,13 @@
+[
+  {
+    "fileName": "snzb-06p_v1.0.5.ota",
+    "fileVersion": 4101,
+    "fileSize": 258206,
+    "url": "https://raw.githubusercontent.com/andrei-lazarov/zigbee-OTA/sonoff/not-in-manifest-images/Sonoff/snzb-06p_v1.0.5.ota",
+    "imageType": 2060,
+    "manufacturerCode": 4742,
+    "sha512": "fdcd4e238b25a971d79746a0305e185567e027c3ba08ed42ac7ca003601c25ccce497fd1f8e6ede1e0e7b058768bc2daf3ebc985174fc6265a9df4acc4f81467",
+    "otaHeaderString": "vers: ZigBee:00001005",
+    "force": true
+  }
+]

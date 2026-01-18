@@ -1,0 +1,13 @@
+[
+  {
+    "fileName": "20220607183723_OTA_lumi.remote.cagl02_V1.0.25_20220602_44D1AF_fake.ota",
+    "fileVersion": 29,
+    "fileSize": 266926,
+    "url": "https://raw.githubusercontent.com/andrei-lazarov/zigbee-OTA/cube/images/Lumi/20220607183723_OTA_lumi.remote.cagl02_V1.0.25_20220602_44D1AF_fake.ota",
+    "imageType": 8840,
+    "manufacturerCode": 4447,
+    "sha512": "eec738879a1b0a0aa93afefb5b98d9ec8a287963d1b55fdffc583a9a13926291f31c98623be3b9c3886637df30f05fe7577848cf94c2abb1c229007667509103",
+    "otaHeaderString": "OM15082-CUBE-JN5180-ENCRYPTED000",
+    "modelId": "lumi.remote.cagl02"
+  }
+]
